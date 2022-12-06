@@ -1,4 +1,4 @@
 # Anti-Bots
-//insert this 
-include("blocker.php"); //
+//insert this <br>
+include("blocker.php");<br> //
 to block those bots
